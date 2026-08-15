@@ -4,7 +4,7 @@
 ChatGPTに草稿の作成を依頼し、筆者自身が内容を確認しながら
 加筆・修正してまとめています。
 内容の正確性には十分注意していますが、
-利用にあたっては各自の責任でご確認ください
+利用にあたっては各自の責任でご確認ください。
 
 This document contains personal study notes on quantum mechanics.  
 Drafts were prepared with the assistance of ChatGPT and were subsequently
